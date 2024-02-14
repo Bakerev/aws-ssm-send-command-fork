@@ -1,4 +1,4 @@
-name: "AWS SSM Send Command"
+name: "ssm send command with aws"
 author: "Donghyun Peter Kim <peterkimzz69@gmail.com>"
 
 branding:
