@@ -15,7 +15,6 @@ try {
 
   // Run Send Command
   const ssm = new AWS.SSM();
-  ssm.sendCommand();
   ssm.sendCommand(
     {
       InstanceIds: inputs.instanceIds,
